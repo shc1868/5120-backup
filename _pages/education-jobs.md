@@ -33,8 +33,6 @@ post_date: 2019-09-13 04:29:59
 <label>Apprenticeship
   <input type="checkbox" value='Apprenticeship'>
 </label>
-		[xyz-ips snippet="foundations-content-version7-edu"]
-[xyz-ips snippet="foundations-content-version7-job"]		
 			<a href="https://www.carefreeyouth.tk/finance/" role="button">
 						Financial Assistance
 					</a>
