@@ -11,7 +11,6 @@ published: true
 post_date: 2019-09-15 02:01:15
 ---
 <h3>Find the Route to a Financial Assistance Service</h3>		
-		<p>select the current location</p>		
 			<!DOCTYPE html>
 <html>
   <head>
