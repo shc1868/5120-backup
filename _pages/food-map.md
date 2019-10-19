@@ -10,7 +10,6 @@ published: true
 post_date: 2019-10-02 11:18:22
 ---
 <h3>Find the Route to a Food Service</h3>		
-		<p>select the current location</p>		
 			<!DOCTYPE html>
 <html>
   <head>
